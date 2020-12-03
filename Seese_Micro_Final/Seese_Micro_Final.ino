@@ -20,7 +20,7 @@ bool BIN_ARRAY[] = {1,0,1,0,0,0,1,1};
 void setup()
 {
         Serial.begin(57600);
-        Serial.print("\nTest git");
+
 }
 
 void loop()
